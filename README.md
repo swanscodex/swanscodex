@@ -1,2 +1,2 @@
-# projects
+# swanscodex
 Machine Learning Projects
